@@ -26,6 +26,6 @@ Rules: 1.Choose a column to drop your disc 2.The game alternates between you and
 
 Tips:
 
-Control the Center
-Force defensive moves
+Control the Center,
+Force defensive moves,
 Try to create double-ended threats
