@@ -30,13 +30,13 @@ $ make clean
 
 Rules: 
 
-1.Choose a column to drop your disc 
+1. Choose a column to drop your disc 
 
-2.The game alternates between you and the computer 
+2. The game alternates between you and the computer 
 
-3.The first player to get 4 in a row vertically, horizontally, or diagonally wins 
+3. The first player to get 4 in a row vertically, horizontally, or diagonally wins 
 
-4.If the board fills up and nobody wins the game ends in a draw
+4. If the board fills up and nobody wins the game ends in a draw
 
 (Opponent difficulty is medium/hard)
 
