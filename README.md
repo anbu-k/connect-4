@@ -3,6 +3,7 @@ C++ Connect-4 Engine
 This is a text-based Connect Four game implemented in C++ where you play versus the computer
 
 Structure: 
+
 main.cpp: The main entry point for the game 
 
 game.h/game.cpp: Implements the game logic 
@@ -27,7 +28,15 @@ Clean with:
 
 $ make clean
 
-Rules: 1.Choose a column to drop your disc 2.The game alternates between you and the computer 3.The first player to get 4 in a row vertically, horizontally, or diagonally wins 4.If the board fills up and nobody wins the game ends in a draw
+Rules: 
+
+1.Choose a column to drop your disc 
+
+2.The game alternates between you and the computer 
+
+3.The first player to get 4 in a row vertically, horizontally, or diagonally wins 
+
+4.If the board fills up and nobody wins the game ends in a draw
 
 (Opponent difficulty is medium/hard)
 
